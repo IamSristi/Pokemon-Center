@@ -84,7 +84,7 @@ Just a modern web browser — no installation or build tools required.
 The project is deployed on **Vercel** and can be viewed live here:
 🔗 **[pokemon-center-five.vercel.app](https://pokemon-center-five.vercel.app/)**
 
-## 🌐 Deployment
+## 🌐 Achievement
 
 Secured 6th position in the EdgeX contest conducted by Azion and Sourcify IN.
 🏅 **[Certificate Link](https://verification.givemycertificate.com/v/c92be1a2-10e8-4718-b0ec-3c6e4085596e)**
