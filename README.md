@@ -82,40 +82,13 @@ Just a modern web browser — no installation or build tools required.
 ## 🌐 Deployment
 
 The project is deployed on **Vercel** and can be viewed live here:
-👉 **[pokemon-center-five.vercel.app](https://pokemon-center-five.vercel.app/)**
+🔗 **[pokemon-center-five.vercel.app](https://pokemon-center-five.vercel.app/)**
 
-To deploy your own copy:
-1. Fork/clone this repository
-2. Import it into [Vercel](https://vercel.com/)
-3. Deploy — no build configuration needed since it's static HTML/CSS/JS
+## 🌐 Deployment
 
----
-
-## 🗺️ Roadmap / Ideas for Improvement
-
-- [ ] Add real backend integration for login/authentication
-- [ ] Connect to a live Pokémon or product API (e.g., PokéAPI)
-- [ ] Implement functional cart and wishlist logic
-- [ ] Add product detail pages
-- [ ] Add search and filter functionality
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-No license file is currently specified in the repository. Consider adding one (e.g., MIT) if you intend for others to reuse this code.
+Secured 6th position in the EdgeX contest conducted by Azion and Sourcify IN.
+🏅 **[Certificate Link](https://verification.givemycertificate.com/v/c92be1a2-10e8-4718-b0ec-3c6e4085596e)**
+🌟 **[Post Link](https://www.linkedin.com/posts/sourcifyin_sourcifycommunity-edgexcontest-coding-ugcPost-7270159587759001601-YYwj?utm_source=share&utm_medium=member_android&rcm=ACoAAEPQdTQBJQYO5j-eSh1UjJlQQOe_fn_sYjg)**
 
 ---
 
@@ -123,9 +96,3 @@ No license file is currently specified in the repository. Consider adding one (e
 
 **Sristi**
 GitHub: [@IamSristi](https://github.com/IamSristi)
-
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful or interesting, give it a ⭐ on [GitHub](https://github.com/IamSristi/Pokemon-Center)!
